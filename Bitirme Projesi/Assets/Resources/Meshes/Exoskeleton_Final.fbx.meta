@@ -1,0 +1,891 @@
+fileFormatVersion: 2
+guid: 2014421c95b104b4c9503db956cfbc87
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BaseMeshForImportLatticeRigged:Chest_joint
+    100002: BaseMeshForImportLatticeRigged:Head_joint
+    100004: BaseMeshForImportLatticeRigged:Hip_joint
+    100006: BaseMeshForImportLatticeRigged:L_Ankle_joint
+    100008: BaseMeshForImportLatticeRigged:L_Arm_joint
+    100010: BaseMeshForImportLatticeRigged:L_Elbow_joint
+    100012: BaseMeshForImportLatticeRigged:L_Foot_joint
+    100014: BaseMeshForImportLatticeRigged:L_Hand_joint1
+    100016: BaseMeshForImportLatticeRigged:L_IndexA_joint1
+    100018: BaseMeshForImportLatticeRigged:L_IndexB_joint
+    100020: BaseMeshForImportLatticeRigged:L_IndexC_joint
+    100022: BaseMeshForImportLatticeRigged:L_Knee_joint
+    100024: BaseMeshForImportLatticeRigged:L_Leg_joint
+    100026: BaseMeshForImportLatticeRigged:L_MiddleA_joint
+    100028: BaseMeshForImportLatticeRigged:L_MiddleB_joint
+    100030: BaseMeshForImportLatticeRigged:L_MiddleC_joint
+    100032: BaseMeshForImportLatticeRigged:L_PinkyA_joint
+    100034: BaseMeshForImportLatticeRigged:L_PinkyB_joint
+    100036: BaseMeshForImportLatticeRigged:L_PinkyC_joint
+    100038: BaseMeshForImportLatticeRigged:L_RingA_joint
+    100040: BaseMeshForImportLatticeRigged:L_RingB_joint
+    100042: BaseMeshForImportLatticeRigged:L_RingC_joint
+    100044: BaseMeshForImportLatticeRigged:L_Shoulder_joint
+    100046: BaseMeshForImportLatticeRigged:L_ThumbA_joint
+    100048: BaseMeshForImportLatticeRigged:L_ThumbB_joint
+    100050: BaseMeshForImportLatticeRigged:L_ThumbC_joint
+    100052: BaseMeshForImportLatticeRigged:L_Toe_joint
+    100054: BaseMeshForImportLatticeRigged:Neck_joint
+    100056: BaseMeshForImportLatticeRigged:R_Ankle_joint
+    100058: BaseMeshForImportLatticeRigged:R_Arm_joint
+    100060: BaseMeshForImportLatticeRigged:R_Elbow_joint
+    100062: BaseMeshForImportLatticeRigged:R_Foot_joint
+    100064: BaseMeshForImportLatticeRigged:R_Hand_joint1
+    100066: BaseMeshForImportLatticeRigged:R_IndexA_joint1
+    100068: BaseMeshForImportLatticeRigged:R_IndexB_joint
+    100070: BaseMeshForImportLatticeRigged:R_IndexC_joint
+    100072: BaseMeshForImportLatticeRigged:R_Knee_joint
+    100074: BaseMeshForImportLatticeRigged:R_Leg_joint
+    100076: BaseMeshForImportLatticeRigged:R_MiddleA_joint
+    100078: BaseMeshForImportLatticeRigged:R_MiddleB_joint
+    100080: BaseMeshForImportLatticeRigged:R_MiddleC_joint
+    100082: BaseMeshForImportLatticeRigged:R_PinkyA_joint
+    100084: BaseMeshForImportLatticeRigged:R_PinkyB_joint
+    100086: BaseMeshForImportLatticeRigged:R_PinkyC_joint
+    100088: BaseMeshForImportLatticeRigged:R_RingA_joint
+    100090: BaseMeshForImportLatticeRigged:R_RingB_joint
+    100092: BaseMeshForImportLatticeRigged:R_RingC_joint
+    100094: BaseMeshForImportLatticeRigged:R_Shoulder_joint
+    100096: BaseMeshForImportLatticeRigged:R_ThumbA_joint
+    100098: BaseMeshForImportLatticeRigged:R_ThumbB_joint
+    100100: BaseMeshForImportLatticeRigged:R_ThumbC_joint
+    100102: BaseMeshForImportLatticeRigged:R_Toe_joint
+    100104: BaseMeshForImportLatticeRigged:Spine_joint
+    100106: ExoSkeleton
+    100108: //RootNode
+    400000: BaseMeshForImportLatticeRigged:Chest_joint
+    400002: BaseMeshForImportLatticeRigged:Head_joint
+    400004: BaseMeshForImportLatticeRigged:Hip_joint
+    400006: BaseMeshForImportLatticeRigged:L_Ankle_joint
+    400008: BaseMeshForImportLatticeRigged:L_Arm_joint
+    400010: BaseMeshForImportLatticeRigged:L_Elbow_joint
+    400012: BaseMeshForImportLatticeRigged:L_Foot_joint
+    400014: BaseMeshForImportLatticeRigged:L_Hand_joint1
+    400016: BaseMeshForImportLatticeRigged:L_IndexA_joint1
+    400018: BaseMeshForImportLatticeRigged:L_IndexB_joint
+    400020: BaseMeshForImportLatticeRigged:L_IndexC_joint
+    400022: BaseMeshForImportLatticeRigged:L_Knee_joint
+    400024: BaseMeshForImportLatticeRigged:L_Leg_joint
+    400026: BaseMeshForImportLatticeRigged:L_MiddleA_joint
+    400028: BaseMeshForImportLatticeRigged:L_MiddleB_joint
+    400030: BaseMeshForImportLatticeRigged:L_MiddleC_joint
+    400032: BaseMeshForImportLatticeRigged:L_PinkyA_joint
+    400034: BaseMeshForImportLatticeRigged:L_PinkyB_joint
+    400036: BaseMeshForImportLatticeRigged:L_PinkyC_joint
+    400038: BaseMeshForImportLatticeRigged:L_RingA_joint
+    400040: BaseMeshForImportLatticeRigged:L_RingB_joint
+    400042: BaseMeshForImportLatticeRigged:L_RingC_joint
+    400044: BaseMeshForImportLatticeRigged:L_Shoulder_joint
+    400046: BaseMeshForImportLatticeRigged:L_ThumbA_joint
+    400048: BaseMeshForImportLatticeRigged:L_ThumbB_joint
+    400050: BaseMeshForImportLatticeRigged:L_ThumbC_joint
+    400052: BaseMeshForImportLatticeRigged:L_Toe_joint
+    400054: BaseMeshForImportLatticeRigged:Neck_joint
+    400056: BaseMeshForImportLatticeRigged:R_Ankle_joint
+    400058: BaseMeshForImportLatticeRigged:R_Arm_joint
+    400060: BaseMeshForImportLatticeRigged:R_Elbow_joint
+    400062: BaseMeshForImportLatticeRigged:R_Foot_joint
+    400064: BaseMeshForImportLatticeRigged:R_Hand_joint1
+    400066: BaseMeshForImportLatticeRigged:R_IndexA_joint1
+    400068: BaseMeshForImportLatticeRigged:R_IndexB_joint
+    400070: BaseMeshForImportLatticeRigged:R_IndexC_joint
+    400072: BaseMeshForImportLatticeRigged:R_Knee_joint
+    400074: BaseMeshForImportLatticeRigged:R_Leg_joint
+    400076: BaseMeshForImportLatticeRigged:R_MiddleA_joint
+    400078: BaseMeshForImportLatticeRigged:R_MiddleB_joint
+    400080: BaseMeshForImportLatticeRigged:R_MiddleC_joint
+    400082: BaseMeshForImportLatticeRigged:R_PinkyA_joint
+    400084: BaseMeshForImportLatticeRigged:R_PinkyB_joint
+    400086: BaseMeshForImportLatticeRigged:R_PinkyC_joint
+    400088: BaseMeshForImportLatticeRigged:R_RingA_joint
+    400090: BaseMeshForImportLatticeRigged:R_RingB_joint
+    400092: BaseMeshForImportLatticeRigged:R_RingC_joint
+    400094: BaseMeshForImportLatticeRigged:R_Shoulder_joint
+    400096: BaseMeshForImportLatticeRigged:R_ThumbA_joint
+    400098: BaseMeshForImportLatticeRigged:R_ThumbB_joint
+    400100: BaseMeshForImportLatticeRigged:R_ThumbC_joint
+    400102: BaseMeshForImportLatticeRigged:R_Toe_joint
+    400104: BaseMeshForImportLatticeRigged:Spine_joint
+    400106: ExoSkeleton
+    400108: //RootNode
+    4300000: ExoSkeleton
+    9500000: //RootNode
+    13700000: ExoSkeleton
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ExoskeletonMatte_Color
+    second: {fileID: 2100000, guid: a6c478ed07cf10249b06d72730a69a74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ExoskeletonMetallic_Color
+    second: {fileID: 2100000, guid: a6c478ed07cf10249b06d72730a69a74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ExoskeletonTubes_Color
+    second: {fileID: 2100000, guid: a6c478ed07cf10249b06d72730a69a74, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: BaseMeshForImportLatticeRigged:Hip_joint
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:L_Leg_joint
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:R_Leg_joint
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:L_Knee_joint
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:R_Knee_joint
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:L_Ankle_joint
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:R_Ankle_joint
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:Spine_joint
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:Neck_joint
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:Head_joint
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:L_Shoulder_joint
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:R_Shoulder_joint
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:L_Arm_joint
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:R_Arm_joint
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:L_Elbow_joint
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:R_Elbow_joint
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:L_Hand_joint1
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:R_Hand_joint1
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:L_Toe_joint
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:R_Toe_joint
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:L_ThumbA_joint
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:L_ThumbB_joint
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:L_ThumbC_joint
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:L_IndexA_joint1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:L_IndexB_joint
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:L_IndexC_joint
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:L_MiddleA_joint
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:L_MiddleB_joint
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:L_MiddleC_joint
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:L_RingA_joint
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:L_RingB_joint
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:L_RingC_joint
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:L_PinkyA_joint
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:L_PinkyB_joint
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:L_PinkyC_joint
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:R_ThumbA_joint
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:R_ThumbB_joint
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:R_ThumbC_joint
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:R_IndexA_joint1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:R_IndexB_joint
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:R_IndexC_joint
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:R_MiddleA_joint
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:R_MiddleB_joint
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:R_MiddleC_joint
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:R_RingA_joint
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:R_RingB_joint
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:R_RingC_joint
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:R_PinkyA_joint
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:R_PinkyB_joint
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseMeshForImportLatticeRigged:R_PinkyC_joint
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Exoskeleton_Final(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ExoSkeleton
+      parentName: Exoskeleton_Final(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:Hip_joint
+      parentName: Exoskeleton_Final(Clone)
+      position: {x: -0, y: 0.80937314, z: 0.012880594}
+      rotation: {x: -0.7071068, y: 0.7071068, z: 4.3297806e-17, w: -4.3297806e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:Spine_joint
+      parentName: BaseMeshForImportLatticeRigged:Hip_joint
+      position: {x: -0.12483646, y: 2.7719262e-17, z: -1.7763568e-17}
+      rotation: {x: 5.83722e-18, y: 0.026288502, z: -2.1874846e-16, w: 0.9996544}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:Chest_joint
+      parentName: BaseMeshForImportLatticeRigged:Spine_joint
+      position: {x: -0.13351664, y: 5.2714616e-17, z: -0.0013820217}
+      rotation: {x: 0, y: -0.026288502, z: -0, w: 0.9996544}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:Neck_joint
+      parentName: BaseMeshForImportLatticeRigged:Chest_joint
+      position: {x: -0.14845067, y: -1.1735129e-19, z: 0.0112747345}
+      rotation: {x: -2.8592146e-17, y: -0.12876758, z: -2.359655e-16, w: 0.9916748}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:Head_joint
+      parentName: BaseMeshForImportLatticeRigged:Neck_joint
+      position: {x: -0.10300951, y: -4.3498206e-17, z: -8.881784e-18}
+      rotation: {x: 0, y: 0.12876964, z: -0, w: 0.99167454}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_Shoulder_joint
+      parentName: BaseMeshForImportLatticeRigged:Chest_joint
+      position: {x: -0.09698269, y: 0.018385662, z: -0.0069408813}
+      rotation: {x: -0.4461121, y: 0.58386123, z: -0.4118175, w: 0.5389772}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_Arm_joint
+      parentName: BaseMeshForImportLatticeRigged:L_Shoulder_joint
+      position: {x: -0.12793042, y: 1.4004143e-17, z: -1.3536808e-17}
+      rotation: {x: 0.04662029, y: 0.022122782, z: -0.121968456, w: 0.9911916}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_Elbow_joint
+      parentName: BaseMeshForImportLatticeRigged:L_Arm_joint
+      position: {x: -0.2357122, y: 3.5527136e-17, z: -2.842171e-16}
+      rotation: {x: -0.7089039, y: 0.00644573, z: -0.019275758, w: 0.70501226}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_Hand_joint1
+      parentName: BaseMeshForImportLatticeRigged:L_Elbow_joint
+      position: {x: -0.20249067, y: -5.5559865e-18, z: 7.748279e-18}
+      rotation: {x: 0, y: -0.017452406, z: -0, w: 0.9998477}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_ThumbA_joint
+      parentName: BaseMeshForImportLatticeRigged:L_Hand_joint1
+      position: {x: -0.017556168, y: -0.0019708392, z: 0.011943758}
+      rotation: {x: -0.44309247, y: 0.27860138, z: 0.30933952, w: 0.7939518}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_ThumbB_joint
+      parentName: BaseMeshForImportLatticeRigged:L_ThumbA_joint
+      position: {x: -0.054312013, y: -2.2268084e-17, z: 6.5817843e-18}
+      rotation: {x: 0.018971492, y: -0.016124582, z: -0.03789156, w: 0.99897164}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_ThumbC_joint
+      parentName: BaseMeshForImportLatticeRigged:L_ThumbB_joint
+      position: {x: -0.030002108, y: -2.7150265e-17, z: -5.2533354e-17}
+      rotation: {x: 0.40443492, y: -0.15793703, z: -0.32768455, w: 0.83911335}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_IndexA_joint1
+      parentName: BaseMeshForImportLatticeRigged:L_Hand_joint1
+      position: {x: -0.08956236, y: -0.015366539, z: 0.034116175}
+      rotation: {x: -0.000076631506, y: 0.020220684, z: 0.004627796, w: 0.9997849}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_IndexB_joint
+      parentName: BaseMeshForImportLatticeRigged:L_IndexA_joint1
+      position: {x: -0.03132019, y: -1.4210854e-16, z: -1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_IndexC_joint
+      parentName: BaseMeshForImportLatticeRigged:L_IndexB_joint
+      position: {x: -0.025413344, y: 0, z: -1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_MiddleA_joint
+      parentName: BaseMeshForImportLatticeRigged:L_Hand_joint1
+      position: {x: -0.08968678, y: -0.014264537, z: 0.0100673735}
+      rotation: {x: -0.000076627744, y: 0.020220933, z: 0.004628013, w: 0.9997849}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_MiddleB_joint
+      parentName: BaseMeshForImportLatticeRigged:L_MiddleA_joint
+      position: {x: -0.034569994, y: 0, z: -1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_MiddleC_joint
+      parentName: BaseMeshForImportLatticeRigged:L_MiddleB_joint
+      position: {x: -0.026913254, y: 0, z: -1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_RingA_joint
+      parentName: BaseMeshForImportLatticeRigged:L_Hand_joint1
+      position: {x: -0.08544186, y: -0.017059691, z: -0.012982088}
+      rotation: {x: -0.00007662845, y: 0.020220133, z: 0.0046262625, w: 0.9997848}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_RingB_joint
+      parentName: BaseMeshForImportLatticeRigged:L_RingA_joint
+      position: {x: -0.034070022, y: 0, z: -1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_RingC_joint
+      parentName: BaseMeshForImportLatticeRigged:L_RingB_joint
+      position: {x: -0.025913315, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_PinkyA_joint
+      parentName: BaseMeshForImportLatticeRigged:L_Hand_joint1
+      position: {x: -0.081448965, y: -0.020633651, z: -0.034389425}
+      rotation: {x: -0.00007644012, y: 0.02022145, z: 0.0046302215, w: 0.9997848}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_PinkyB_joint
+      parentName: BaseMeshForImportLatticeRigged:L_PinkyA_joint
+      position: {x: -0.022570716, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_PinkyC_joint
+      parentName: BaseMeshForImportLatticeRigged:L_PinkyB_joint
+      position: {x: -0.02266351, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_Shoulder_joint
+      parentName: BaseMeshForImportLatticeRigged:Chest_joint
+      position: {x: -0.096985735, y: -0.018385699, z: -0.0069411616}
+      rotation: {x: 0.4118175, y: -0.5389772, z: -0.4461121, w: 0.58386123}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_Arm_joint
+      parentName: BaseMeshForImportLatticeRigged:R_Shoulder_joint
+      position: {x: 0.12793064, y: 0.0000011273207, z: -0.000006573365}
+      rotation: {x: 0.04662029, y: 0.022122782, z: -0.121968456, w: 0.9911916}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_Elbow_joint
+      parentName: BaseMeshForImportLatticeRigged:R_Arm_joint
+      position: {x: 0.23571202, y: -0.000000011917525, z: 0.000006781789}
+      rotation: {x: -0.7089039, y: 0.00644573, z: -0.019275758, w: 0.70501226}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_Hand_joint1
+      parentName: BaseMeshForImportLatticeRigged:R_Elbow_joint
+      position: {x: 0.20249087, y: 0.000007942119, z: 0.00000013216082}
+      rotation: {x: -1.4446675e-34, y: -0.017452406, z: -2.3197837e-17, w: 0.9998477}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_ThumbA_joint
+      parentName: BaseMeshForImportLatticeRigged:R_Hand_joint1
+      position: {x: 0.01755611, y: 0.0019622964, z: -0.0119444}
+      rotation: {x: -0.4431009, y: 0.27861676, z: 0.3093243, w: 0.79394764}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_ThumbB_joint
+      parentName: BaseMeshForImportLatticeRigged:R_ThumbA_joint
+      position: {x: 0.054311678, y: 0.000000065831195, z: 0.00000010880022}
+      rotation: {x: 0.018971017, y: -0.016121067, z: -0.037906867, w: 0.9989711}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_ThumbC_joint
+      parentName: BaseMeshForImportLatticeRigged:R_ThumbB_joint
+      position: {x: 0.03000351, y: 0.000001928718, z: 0.0000029168953}
+      rotation: {x: 0.40443492, y: -0.15793703, z: -0.32768455, w: 0.83911335}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_IndexA_joint1
+      parentName: BaseMeshForImportLatticeRigged:R_Hand_joint1
+      position: {x: 0.08956235, y: 0.015361156, z: -0.03411689}
+      rotation: {x: -0.00007713452, y: 0.020210063, z: 0.0045955624, w: 0.99978524}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_IndexB_joint
+      parentName: BaseMeshForImportLatticeRigged:R_IndexA_joint1
+      position: {x: 0.03132, y: 0, z: -1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_IndexC_joint
+      parentName: BaseMeshForImportLatticeRigged:R_IndexB_joint
+      position: {x: 0.025413, y: 0, z: 3.5527136e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_MiddleA_joint
+      parentName: BaseMeshForImportLatticeRigged:R_Hand_joint1
+      position: {x: 0.08968673, y: 0.014258152, z: -0.010067663}
+      rotation: {x: -0.000076956036, y: 0.020210655, z: 0.0045972485, w: 0.99978524}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_MiddleB_joint
+      parentName: BaseMeshForImportLatticeRigged:R_MiddleA_joint
+      position: {x: 0.03457, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_MiddleC_joint
+      parentName: BaseMeshForImportLatticeRigged:R_MiddleB_joint
+      position: {x: 0.026912998, y: 0, z: 1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_RingA_joint
+      parentName: BaseMeshForImportLatticeRigged:R_Hand_joint1
+      position: {x: 0.08544164, y: 0.017056728, z: 0.012981728}
+      rotation: {x: -0.00007701563, y: 0.020210657, z: 0.00459725, w: 0.9997852}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_RingB_joint
+      parentName: BaseMeshForImportLatticeRigged:R_RingA_joint
+      position: {x: 0.03407, y: 1.4210854e-16, z: -1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_RingC_joint
+      parentName: BaseMeshForImportLatticeRigged:R_RingB_joint
+      position: {x: 0.025913, y: 0, z: 1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_PinkyA_joint
+      parentName: BaseMeshForImportLatticeRigged:R_Hand_joint1
+      position: {x: 0.0814486, y: 0.020633858, z: 0.034388956}
+      rotation: {x: -0.00007698389, y: 0.020210758, z: 0.004597361, w: 0.9997852}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_PinkyB_joint
+      parentName: BaseMeshForImportLatticeRigged:R_PinkyA_joint
+      position: {x: 0.022571001, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_PinkyC_joint
+      parentName: BaseMeshForImportLatticeRigged:R_PinkyB_joint
+      position: {x: 0.022664001, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_Leg_joint
+      parentName: BaseMeshForImportLatticeRigged:Hip_joint
+      position: {x: 0.09383815, y: 0.07217878, z: 0.0033354913}
+      rotation: {x: 0.0053015384, y: 0.9999158, z: 0.000062818224, w: 0.011848058}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_Knee_joint
+      parentName: BaseMeshForImportLatticeRigged:L_Leg_joint
+      position: {x: -0.2935572, y: 8.4335246e-17, z: 9.514828e-18}
+      rotation: {x: 0.00011684104, y: -0.04192292, z: 0.0027845833, w: 0.99911696}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_Ankle_joint
+      parentName: BaseMeshForImportLatticeRigged:L_Knee_joint
+      position: {x: -0.3420958, y: -1.7763568e-17, z: -2.1316282e-16}
+      rotation: {x: -0.01647971, y: 0.52695787, z: -0.039678656, w: 0.8488048}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_Foot_joint
+      parentName: BaseMeshForImportLatticeRigged:L_Ankle_joint
+      position: {x: -0.091263734, y: -1.9984014e-17, z: 1.7763568e-17}
+      rotation: {x: 0.016445162, y: -0.5262188, z: 0.03969298, w: 0.84926313}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:L_Toe_joint
+      parentName: BaseMeshForImportLatticeRigged:L_Foot_joint
+      position: {x: -0.0048815114, y: 0.00013950845, z: 0.045802988}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_Leg_joint
+      parentName: BaseMeshForImportLatticeRigged:Hip_joint
+      position: {x: 0.09383806, y: -0.072178796, z: 0.0033352056}
+      rotation: {x: -0.000062818224, y: -0.011848058, z: 0.0053015384, w: 0.9999158}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_Knee_joint
+      parentName: BaseMeshForImportLatticeRigged:R_Leg_joint
+      position: {x: 0.29355693, y: 0.000000018484812, z: 0.0000006229844}
+      rotation: {x: 0.00011684104, y: -0.04192292, z: 0.0027845833, w: 0.99911696}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_Ankle_joint
+      parentName: BaseMeshForImportLatticeRigged:R_Knee_joint
+      position: {x: 0.3420958, y: -0.000000013319923, z: -0.00000049751213}
+      rotation: {x: -0.01647971, y: 0.52695787, z: -0.039678656, w: 0.8488048}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_Foot_joint
+      parentName: BaseMeshForImportLatticeRigged:R_Ankle_joint
+      position: {x: 0.091263786, y: 0.000000010771903, z: 0.0000003126909}
+      rotation: {x: 0.016445162, y: -0.5262188, z: 0.03969298, w: 0.84926313}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseMeshForImportLatticeRigged:R_Toe_joint
+      parentName: BaseMeshForImportLatticeRigged:R_Foot_joint
+      position: {x: 0.0048815478, y: -0.00013950893, z: -0.045802902}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
